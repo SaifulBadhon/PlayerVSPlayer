@@ -1,0 +1,25 @@
+.wd{
+    width: 100px;
+    
+}
+
+.center{
+
+    width: 50%;
+    margin: auto;
+}
+
+h1{
+    margin-left: 30px;;
+}
+
+h3{
+    color: green;
+}
+
+button{
+    cursor: pointer;
+}
+h6{
+    margin-left: 110px;;
+}
